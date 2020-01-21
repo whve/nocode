@@ -1,8 +1,10 @@
-# No Code
+# No Code (how to start write paper?)
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code is the best way to write secure and reliable papers. Write nothing; publish nowhere.
 
 ## Getting Started
+
+Start science paper title.
 
 Start by not writing any code.
 
